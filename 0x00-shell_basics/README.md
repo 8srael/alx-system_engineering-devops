@@ -1,5 +1,7 @@
-### Shell basics projet
+## Shell basics projet
 ___Tasks Directory with following files :___
+
+# ------------------Mandatory Tasks--------------------------
 
 - *0-current_working_directory* prints the current path working directory.
 - *2-bring_me_home* changes the working directory to the user’s home directory.
@@ -15,3 +17,11 @@ ___Tasks Directory with following files :___
 - *12-file_type* prints the type of the file named _iamafile_.
 - *13-symbolic_link* creates a symbolic link to _/bin/ls_, named ls.
 - *14-copy_html* copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+
+# -------------------Advanced Tasks---------------------------
+
+- *100-lets_move* moves all files beginning with an uppercase letter to the directory _/tmp/u_ .
+- *101-clean_emacs* deletes all files in the current working directory that end with the character.
+- *102-tree* creates the directories _welcome/, welcome/to/ and welcome/to/school_ in the current directory.
+- *103-commas* lists all the files and directories of the current directory, separated by commas (,).
+- *school.mgc* __magic file__
