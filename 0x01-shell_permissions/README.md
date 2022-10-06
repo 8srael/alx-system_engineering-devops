@@ -35,4 +35,4 @@
 
 - [102-if_only](https://github.com/8srael/alx-system_engineering-devops/blob/master/0x01-shell_permissions/102-if_only) - changes the owner of the file `hello` to `betty` only if it is owned by the user `guillaume`. The file `hello` will be in the working directory
 
-- [103-Star_Wars](https://github.com/8srael/alx-system_engineering-devops/blob/master/0x01-shell_permissions/103-Star_Wars) - Write a script that will play the StarWars IV episode in the terminal.
+- [103-Star_Wars](https://github.com/8srael/alx-system_engineering-devops/blob/master/0x01-shell_permissions/103-Star_Wars) - plays the StarWars IV episode in the terminal.
