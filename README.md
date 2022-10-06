@@ -1,2 +1,6 @@
 ## alx-system_engineering-devops
-**Shell basics project repository**
+
+##### The repository of these following projects
+
+1. 0x00. Shell, basics
+2. 0x01. Shell, permissions
