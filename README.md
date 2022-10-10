@@ -4,3 +4,4 @@
 
 1. [0x00. Shell, basics](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x00-shell_basics)
 2. [0x01. Shell, permissions](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x01-shell_permissions)
+3. [0x02. Shell, I/O Redirections and filters](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x02-shell_redirections)
