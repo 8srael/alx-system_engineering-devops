@@ -6,4 +6,4 @@
 2. [0x01. Shell, permissions](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x01-shell_permissions)
 3. [0x02. Shell, I/O Redirections and filters](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x02-shell_redirections)
 4. [Shell, init files, variables and expansions](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions)
-5. [Command line for the win](https://github.com/8srael/alx-system_engineering-devops/tree/master/command_line_for_the_win)
+5. [0x04. Loops, conditions and parsing](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
