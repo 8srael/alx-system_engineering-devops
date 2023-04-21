@@ -12,3 +12,4 @@
 7. [0x07. Networking basics #0](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x07-networking_basics)
 8. [0x08. Networking basics #1](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x08-networking_basics_2)
 9. [0x09. Web infrastructure design](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x09-web_infrastructure_design)
+10. [0x0A. Configuration management](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x0A-configuration_management)
