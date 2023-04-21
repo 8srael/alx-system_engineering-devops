@@ -7,4 +7,5 @@
 exec { 'kill-process-killmenow' :
   command => '/usr/bin/pkill -f killmenow',
   user    => 'root',
+  onlyif  => '/usr/bin/pgrep -f killmenow',
 }
