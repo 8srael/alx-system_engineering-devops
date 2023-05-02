@@ -15,3 +15,4 @@
 10. [0x0A. Configuration management](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x0A-configuration_management)
 11. [0x0B. SSH](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x0B-ssh)
 12. [0x0C. Web server](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x0C-web_server)
+13. [0x0F. Load balancer](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x0F-load_balancer)
