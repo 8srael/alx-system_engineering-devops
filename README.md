@@ -16,3 +16,4 @@
 11. [0x0B. SSH](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x0B-ssh)
 12. [0x0C. Web server](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x0C-web_server)
 13. [0x0F. Load balancer](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x0F-load_balancer)
+14. [0x0E. Web stack debugging #1 DevOps SysAdmin Scripting Debugging]((https://github.com/8srael/alx-system_engineering-devops/tree/master/0-nginx_likes_port_80)
