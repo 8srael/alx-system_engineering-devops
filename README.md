@@ -18,3 +18,7 @@
 13. [0x0F. Load balancer](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x0F-load_balancer)
 14. [0x0E. Web stack debugging #1 DevOps SysAdmin Scripting Debugging](https://github.com/8srael/alx-system_engineering-devops/tree/master/0-nginx_likes_port_80)
 15. [0x11. What happens when you type google.com in your browser and press Enter](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter)
+16. [0x15. API](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x15-api)
+17. [0x16. API advanced](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x16-api_advanced)
+18. [0x17. Web stack debugging #3](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x17-web_stack_debugging_3)
+19. [0x18. Webstack monitoring](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x18-webstack_monitoring)
