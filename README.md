@@ -22,3 +22,4 @@
 17. [0x16. API advanced](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x16-api_advanced)
 18. [0x17. Web stack debugging #3](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x17-web_stack_debugging_3)
 19. [0x18. Webstack monitoring](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x18-webstack_monitoring)
+20. [0x1A. Application server](https://github.com/8srael/alx-system_engineering-devops/tree/master/0x1A-application_server)
