@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Configure HAproxy so that it send traffic to web-01 and web-02 using roundrobin
 
 sudo apt-get update
